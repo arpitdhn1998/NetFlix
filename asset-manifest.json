@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NetFlix/static/css/main.e276af56.chunk.css",
+    "main.js": "/NetFlix/static/js/main.bf15a261.chunk.js",
+    "main.js.map": "/NetFlix/static/js/main.bf15a261.chunk.js.map",
+    "runtime-main.js": "/NetFlix/static/js/runtime-main.1e131b84.js",
+    "runtime-main.js.map": "/NetFlix/static/js/runtime-main.1e131b84.js.map",
+    "static/js/2.1812b82c.chunk.js": "/NetFlix/static/js/2.1812b82c.chunk.js",
+    "static/js/2.1812b82c.chunk.js.map": "/NetFlix/static/js/2.1812b82c.chunk.js.map",
+    "index.html": "/NetFlix/index.html",
+    "precache-manifest.67368402d20f938516a207e2a885db9a.js": "/NetFlix/precache-manifest.67368402d20f938516a207e2a885db9a.js",
+    "service-worker.js": "/NetFlix/service-worker.js",
+    "static/css/main.e276af56.chunk.css.map": "/NetFlix/static/css/main.e276af56.chunk.css.map",
+    "static/js/2.1812b82c.chunk.js.LICENSE.txt": "/NetFlix/static/js/2.1812b82c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e131b84.js",
+    "static/js/2.1812b82c.chunk.js",
+    "static/css/main.e276af56.chunk.css",
+    "static/js/main.bf15a261.chunk.js"
+  ]
+}
