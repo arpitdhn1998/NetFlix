@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 20px;
+    background-color: black;
+}
+.navbarItems{
+    background-color: black ;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    
+}
+.navbarIcon{
+    color:  red;
+    font-size: 40px;
+    justify-self: start;
+    margin-left: 2px;
+    cursor: pointer;
+}
+.Nav-menu  {
+    display: grid;
+    
+    grid-template-columns: repeat(5,auto);
+    grid-gap: 10px;
+    list-style:None;
+    text-align: center;
+    width: 70w;
+    justify-content: end;
+    margin-left: 40rem;
+}
+a{
+    font-size: 25px;
+    color: red;
+    text-decoration: none;
+}
+
+
+
+.navbarIcon:active{
+    color: blue;
+}
+.navbarIcon:hover{
+    color: grey;
+
+}
+.navbarIcon:visited{
+    color:white;
+    cursor: pointer;
+
+}
+a:active{
+    color: blue;
+}
+a:hover{
+    color: white;
+
+}
+
